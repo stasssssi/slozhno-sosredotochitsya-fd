@@ -1,3 +1,6 @@
 :root {
   --page-bg-image: url('../images/cover-image-dark.png');
+  --main-color: #FF0070;
+  --bg-color: #000028;
+  --title-color: #DB00FF;
 }
