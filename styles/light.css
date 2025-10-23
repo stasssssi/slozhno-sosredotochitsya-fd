@@ -18,6 +18,9 @@
     --main-color: #FF8DCB;
     --bg-color: #FFB5C0;
     --title-color: #FFC2E6;
+    --border-color: rgba(0, 0, 0, 0.4);
+    --color: black;
+    --description-color: black;
   }
 
   .rec-label {
