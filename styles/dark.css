@@ -1,0 +1,13 @@
+:root.theme-dark {
+    --page-bg-image: url('../images/cover-image-dark.png');
+    --main-color: #FF0070;
+    --bg-color: #000028;
+    --title-color: #DB00FF;
+    --border-color: rgba(255, 0, 112, 0.4);
+    --color: #FF0070;
+    --description-color: #F1B2CE;
+}
+
+.theme-dark .rec-label {
+    display: block;
+}
