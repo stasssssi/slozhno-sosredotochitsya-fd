@@ -6,6 +6,10 @@
   --border-color: rgba(0, 0, 0, 0.4);
   --color: black;
   --description-color: black;
+  --subtitle-color:#353430;
+  --minsubtitle-color: #353430;
+  --accent-color: #353430;
+  --hero-color: #353430;
 }
 
 .theme-light .rec-label {
@@ -21,6 +25,10 @@
     --border-color: rgba(0, 0, 0, 0.4);
     --color: black;
     --description-color: black;
+    --subtitle-color: #353430;
+    --minsubtitle-color: #353430;
+    --accent-color: #353430;
+    --hero-color: #353430;
   }
 
   .rec-label {

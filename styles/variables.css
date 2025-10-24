@@ -6,4 +6,9 @@
   --border-color: rgba(255, 0, 112, 0.4);
   --color: #FF0070;
   --description-color: #F1B2CE;
+  --focus-visible-color: #fff;
+  --subtitle-color:#FF0070;
+  --minsubtitle-color: #000028;
+  --accent-color: #F1B2CE;
+  --hero-color: #000028;
 }
