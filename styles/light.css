@@ -1,11 +1,11 @@
 :root.theme-light {
   --page-bg-image: url('../images/cover-image-light.png');
   --main-color: #FF8DCB;
-  --bg-color: #FFB5C0;
+  --bg-color: #353430;
   --title-color: #FFC2E6;
   --border-color: rgba(0, 0, 0, 0.4);
   --color: black;
-  --description-color: black;
+  --description-color: #353430;
   --subtitle-color:#353430;
   --minsubtitle-color: #353430;
   --accent-color: #353430;
@@ -20,11 +20,11 @@
   :root {
     --page-bg-image: url('../images/cover-image-light.png');
     --main-color: #FF8DCB;
-    --bg-color: #FFB5C0;
+    --bg-color: #353430;
     --title-color: #FFC2E6;
     --border-color: rgba(0, 0, 0, 0.4);
     --color: black;
-    --description-color: black;
+    --description-color: #353430;
     --subtitle-color: #353430;
     --minsubtitle-color: #353430;
     --accent-color: #353430;
