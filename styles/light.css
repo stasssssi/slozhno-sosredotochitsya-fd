@@ -10,6 +10,7 @@
   --minsubtitle-color: #353430;
   --accent-color: #353430;
   --hero-color: #353430;
+  --nav-hover-color: rgb(50 49 45 / 0.4);
 }
 
 .theme-light .rec-label {
@@ -29,6 +30,7 @@
     --minsubtitle-color: #353430;
     --accent-color: #353430;
     --hero-color: #353430;
+    --nav-hover-color: rgb(50 49 45 / 0.4);
   }
 
   .rec-label {
